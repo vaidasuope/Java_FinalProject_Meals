@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Meals Finder</string>
+    <string name="app_title">Find Your Favourite Meal!</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_checkbox">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+    <string name="login_invalid_username">Wrong Username Or/And Password</string>
+    <string name="register">Please register. Enter you data bellow:</string>
+    <string name="register_username">Username:</string>
+    <string name="register_email">E-mail:</string>
+    <string name="register_password">Password:</string>
+    <string name="login_success">Login is successful! Well done!</string>
+    <string name="invalid_email">Email is not valid</string>
+    <string name="new_user">New user registered successful!</string>
+    <string name="search_loading_data">Please wait for the data of meals to be displayed</string>
+    <string name="search_error_reading_data">Couldnt read data from API. For more information: </string>
+    <string name="search_no_results">No search results found for query: </string>
+    <string name="search_found_entries_from_api">Found total number of meals entries: </string>
+<string name="new_entry_meal">Category:</string>
+    <string name="new_entry_dessert">Dessert</string>
+    <string name="new_entry_beef">Beef"</string>
+    <string name="new_entry_vegetarian">Vegetarian</string>
+    <string name="new_entry_starter">Starter</string>
+    <string name="new_entry_area">Area:</string>
+    <string name="new_entry_indian">Indian"</string>
+    <string name="new_entry_british">British</string>
+    <string name="new_entry_american">American</string>
+    <string name="new_entry_mexican">Mexican"</string>
+    <string name="new_entry_ingredient">Ingredient</string>
+
+    <string name="new_entry_1">sausages</string>
+    <string name="new_entry_2">banana"</string>>
+    <string name="new_entry_3">beef</string>>
+    <string name="new_entry_4">chicken</string>>
+    <string name="new_entry_5">onions</string>>
+
+    <string name="new_entry_tags">Tags:</string>
+    <string name="selected">Display selected</string>
+    <string name="new_entry_invalid_tags">Tags are invalid.</string>
+
+    <string name="login">Login</string>
+    <string name="search">Search</string>
+    <string name="registration">Registration</string>
+
+</resources>
